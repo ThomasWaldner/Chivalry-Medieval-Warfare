@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Icon contact</title>
+  <circle cx="65" cy="35" r="10" fill="orange"/>
+  <path d="m53,60 c-5,-20 30,-20 25,0" fill="orange"/>
+  <circle cx="45" cy="40" r="10" fill="darkred"/>
+  <path d="m33,65 c-5,-20 30,-20 25,0" fill="darkred"/>
+
+</svg>
