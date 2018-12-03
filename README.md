@@ -11,3 +11,5 @@ Auf dieser Webseite werden Informationen zum Computerspiel "Chivalry:Medieval Wa
   -Maps
   -Missionsziele
   -Entwickler und beeinflusste Spiele
+  
+  Basiert auf der Template 01 auf der Webseite selfhtml.org:https://wiki.selfhtml.org/wiki/CSS/fertige_Layouts/Design01
