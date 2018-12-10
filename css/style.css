@@ -175,6 +175,12 @@ aside ul {
   color: #333;
 }
 
+article h1 {
+	font-size: 40px;
+ }
+ 
+
+ 
 /* ====================================================  NAV  ==================================================== */
 
 nav ul {
@@ -349,3 +355,12 @@ nav ul {
     margin-bottom: 1.2em;
   }
 }
+
+body {
+	background-color: black;
+}
+
+p {
+	color: #ddd;
+}
+
