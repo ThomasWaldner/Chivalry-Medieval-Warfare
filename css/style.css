@@ -179,8 +179,6 @@ article h1 {
 	font-size: 40px;
  }
  
-
- 
 /* ====================================================  NAV  ==================================================== */
 
 nav ul {
@@ -278,15 +276,15 @@ nav ul {
 /* 2-Spaltenlayout mit breiterem aside */
 @media screen and (min-width: 25em) {
   header {
-    height: 10em;
+    height: 15em;
   }
 }
 
 /* 2-Spaltenlayout mit breiterem aside */
 @media screen and (min-width: 45em) {
   header {
-    background: #e7e8ee url('../img/header.png') no-repeat right bottom ;
-    background-size: contain;
+    background: #e7e8ee url('../img/Chivalry-Header3.jpg') no-repeat right bottom ;
+    background-size: cover;
   }
 
   /* Navigation wird nebeneinander ausgerichtet. */
